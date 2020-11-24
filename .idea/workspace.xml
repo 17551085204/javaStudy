@@ -235,12 +235,12 @@
       <workItem from="1606216036172" duration="331000" />
       <workItem from="1606218690753" duration="412000" />
       <workItem from="1606220286556" duration="556000" />
-      <workItem from="1606225850401" duration="711000" />
+      <workItem from="1606225850401" duration="725000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6322000" />
+    <option name="totallyTimeSpent" value="6336000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -264,7 +264,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="leetcode" order="5" side_tool="true" visible="true" weight="0.0390625" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.2712766" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.2712766" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16197917" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32978722" />
