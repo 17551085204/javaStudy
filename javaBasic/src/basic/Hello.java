@@ -15,6 +15,8 @@ public class Hello {
         //System.out.println("姓名是："+name);
         System.out.println("hello");
         // 下面开始写代码
+        System.out.println(add(1,2));
+
 
 
     }
