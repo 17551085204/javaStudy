@@ -1,12 +1,13 @@
 /*
 @Author:南柯一梦
 @Contact:2890241339@qq.com
-@Date:2020/11/24
+@Date:2020/11/28
 */
 
+package my202011;
 //import java.util.Scanner;
 
-public class Function {
+public class my00 {
     public static void main(String[] args) {
         //Scanner   scanner =  new Scanner(System.in);
         //System.out.println("请输入名字：");
@@ -14,7 +15,8 @@ public class Function {
         //System.out.println("姓名是："+name);
         System.out.println("hello");
         // 下面开始写代码
-        System.out.println(add(1,2));
+        System.out.println(add(1,4));
+
 
     }
 
