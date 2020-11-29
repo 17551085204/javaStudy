@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/MySQL/MySQL.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Demo01Final.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Fu.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/MySubClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Zi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/Demo01Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/MyAnother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/MySon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/Stranger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo03/Body.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo03/Demo01InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo03/Demo02InnerClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo03/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo04/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo04/MyOuter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo04/Outer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo05/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo05/MyInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo05/MyInterfaceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo06/DemoMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo06/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo06/Weapon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo07/DemoGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo07/DemoInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo07/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo07/Skill.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo07/SkillImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/Bootstrap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/MyRed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/NormalMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/RandomMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/01_input.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/02_open_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/02_open_2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/03_money_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/logo.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/red/OpenMode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/red/RedPacketFrame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo01/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo01/HelloWorld.class" afterDir="false" />
-    </list>
+    <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -328,7 +282,7 @@
       <workItem from="1606229906711" duration="14000" />
       <workItem from="1606387145131" duration="18000" />
       <workItem from="1606403026016" duration="19000" />
-      <workItem from="1606574805803" duration="5829000" />
+      <workItem from="1606574805803" duration="6428000" />
     </task>
     <servers />
   </component>
@@ -338,7 +292,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12217000" />
+    <option name="totallyTimeSpent" value="12816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
