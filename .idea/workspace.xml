@@ -2,7 +2,51 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/javaBasic/src/itheima/day04_IDEA_方法/demo01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day04_IDEA_方法/demo01/HelloWorld.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL/MySQL.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Demo01Final.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Fu.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/MySubClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Zi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/Demo01Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/MyAnother.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/MySon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/Stranger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo03/Body.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo03/Demo01InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo03/Demo02InnerClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo03/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo04/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo04/MyOuter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo04/Outer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo05/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo05/MyInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo05/MyInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo06/DemoMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo06/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo06/Weapon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo07/DemoGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo07/DemoInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo07/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo07/Skill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo07/SkillImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/Bootstrap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/MyRed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/NormalMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/RandomMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/01_input.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/02_open_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/02_open_2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/03_money_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/logo.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/red/OpenMode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/red/RedPacketFrame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo01/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo01/HelloWorld.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,17 +56,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="HelloWorld.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day04_IDEA_方法/demo01/HelloWorld.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,12 +81,17 @@
         <option value="$PROJECT_DIR$/javaBasic/src/basic/Hello.java" />
         <option value="$PROJECT_DIR$/javaBasic/src/itheima/day02_数据类型转换_运算符_方法/Demo05Plus.java" />
         <option value="$PROJECT_DIR$/javaBasic/src/itheima/基础加强/反射/reflect/Demo01.java" />
-        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/Stranger.java" />
-        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/MySon.java" />
-        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/Bootstrap.java" />
         <option value="$PROJECT_DIR$/javaBasic/src/itheima/day01_入门程序/Demo01Const.java" />
         <option value="$PROJECT_DIR$/mytest/src/my202011/my00.java" />
         <option value="$PROJECT_DIR$/javaBasic/src/itheima/day04_IDEA_方法/demo01/HelloWorld.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Fu.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/MyClass.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/MySon.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/MyRed.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/NormalMode.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/RandomMode.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/Stranger.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/Bootstrap.java" />
       </list>
     </option>
   </component>
@@ -98,21 +137,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="itheima" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="javaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-              <item name="day04_IDEA_方法" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="javaBasic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="itheima" type="462c0819:PsiDirectoryNode" />
-              <item name="day04_IDEA_方法" type="462c0819:PsiDirectoryNode" />
-              <item name="demo01" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -135,10 +159,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day11_final_权限_内部类" />
+      <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day11_final_权限_内部类\demo02" />
       <recent name="E:\Java_IntelliJ_IDEA_WorkSpace\github2\javaStudy\javaBasic\src\itheima" />
       <recent name="E:\Java_IntelliJ_IDEA_WorkSpace\github2\javaStudy\javaBasic\lib" />
       <recent name="E:\Java_IntelliJ_IDEA_WorkSpace\github2\javaStudy\javaBasic\src" />
-      <recent name="E:\Java_IntelliJ_IDEA_WorkSpace\algorithm\algorithm\leetcode\src\com\leetcode\tempfilepath\leetcode\editor\cn" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -153,35 +178,47 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloWorld">
-    <configuration name="Demo01Const" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="itheima.day01_入门程序.Demo01Const" />
+  <component name="RunManager" selected="Application.Demo01Exception">
+    <configuration name="Bootstrap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itheima.day11_final_权限_内部类.demo08.Bootstrap" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="itheima.day01_入门程序.*" />
+          <option name="PATTERN" value="itheima.day11_final_权限_内部类.demo08.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Function" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Function" />
-      <module name="mytest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="mytest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="itheima.day04_IDEA_方法.demo01.HelloWorld" />
+    <configuration name="Demo01Exception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itheima.day16_异常_线程.demo01.Exception.Demo01Exception" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="itheima.day04_IDEA_方法.demo01.*" />
+          <option name="PATTERN" value="itheima.day16_异常_线程.demo01.Exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo01Final" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itheima.day11_final_权限_内部类.demo01.Demo01Final" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itheima.day11_final_权限_内部类.demo01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Demo02MethodDefine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itheima.day04_IDEA_方法.demo02.Demo02MethodDefine" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itheima.day04_IDEA_方法.demo02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -189,16 +226,28 @@
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="my00" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my202011.my00" />
-      <module name="mytest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <configuration name="MyClass.method" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="javaBasic" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="my202011.*" />
+          <option name="PATTERN" value="itheima.day11_final_权限_内部类.demo01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="itheima.day11_final_权限_内部类.demo01" />
+      <option name="MAIN_CLASS_NAME" value="itheima.day11_final_权限_内部类.demo01.MyClass" />
+      <option name="METHOD_NAME" value="method" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -239,19 +288,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.Hello" />
-      <item itemvalue="Application.Demo01Const" />
-      <item itemvalue="Application.Function" />
-      <item itemvalue="Application.my00" />
-      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.Demo02MethodDefine" />
+      <item itemvalue="Application.Demo01Final" />
+      <item itemvalue="JUnit.MyClass.method" />
+      <item itemvalue="Application.Bootstrap" />
+      <item itemvalue="Application.Demo01Exception" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.my00" />
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Function" />
-        <item itemvalue="Application.Demo01Const" />
+        <item itemvalue="Application.Demo01Exception" />
+        <item itemvalue="Application.Bootstrap" />
+        <item itemvalue="JUnit.MyClass.method" />
+        <item itemvalue="Application.Demo01Final" />
+        <item itemvalue="Application.Demo02MethodDefine" />
       </list>
     </recent_temporary>
   </component>
@@ -279,16 +328,20 @@
       <workItem from="1606229906711" duration="14000" />
       <workItem from="1606387145131" duration="18000" />
       <workItem from="1606403026016" duration="19000" />
-      <workItem from="1606574805803" duration="2167000" />
+      <workItem from="1606574805803" duration="5829000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="MyClass_method - 2020.11.29 at 11h 33m 17s.xml">
+      <configuration name="MyClass.method" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8555000" />
+    <option name="totallyTimeSpent" value="12217000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <layout>
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="10" />
@@ -300,13 +353,13 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005208" side_tool="true" weight="0.34680852" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.28404257" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.18723404" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="leetcode" order="5" side_tool="true" weight="0.038541667" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16145833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -390,10 +443,6 @@
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/test.java" />
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/Person.java" />
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/基础加强/反射/reflect/Demo01.java" />
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/Stranger.java" />
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/MySon.java" />
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/Bootstrap.java" />
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day05_数组/demo01/Demo01Array.java" />
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day01_入门程序/Demo01Const.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -417,8 +466,146 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day04_IDEA_方法/demo01/HelloWorld.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day04_IDEA_方法/demo02/Demo02MethodDefine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day04_IDEA_方法/demo02/Demo01Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="611">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day05_数组/demo01/Demo01Array.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Fu.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="329">
-          <caret line="7" column="7" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <caret line="7" column="1" lean-forward="true" selection-start-line="7" selection-start-column="1" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/Demo01Final.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo01/MyClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#256#257#0" expanded="true" />
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#418#419#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/MySon.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/MyAnother.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/pic/01_input.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/MyRed.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/NormalMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/RandomMode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="6" column="24" lean-forward="true" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo02/sub/Stranger.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#228#229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day11_final_权限_内部类/demo08/Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day16_异常_线程/demo01/Exception/Demo01Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="9" column="3" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="9" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day24_stream流_方法引用/demo10/ArrayMethodReference/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1609">
+          <caret line="38" lean-forward="true" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day24_stream流_方法引用/demo10/ArrayMethodReference/ArrayBuilder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
