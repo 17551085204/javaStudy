@@ -6,7 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/MySQL/MySqlJDBC.iml" filepath="$PROJECT_DIR$/MySQL/MySqlJDBC.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaBasic/javaBasic.iml" filepath="$PROJECT_DIR$/javaBasic/javaBasic.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaWeb/javaWeb.iml" filepath="$PROJECT_DIR$/javaWeb/javaWeb.iml" />
-      <module fileurl="file://$PROJECT_DIR$/maven/maven.iml" filepath="$PROJECT_DIR$/maven/maven.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mavenTest/mavenTest.iml" filepath="$PROJECT_DIR$/mavenTest/mavenTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/mytest/mytest.iml" filepath="$PROJECT_DIR$/mytest/mytest.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
     </modules>

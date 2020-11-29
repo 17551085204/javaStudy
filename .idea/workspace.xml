@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_10.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenTest/mavenTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenTest/src/main/java/hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mavenTest/src/test/java/myTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/jedis.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/jedis/test/JedisTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/redis/src/jedis/util/JedisPoolUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maven/maven.iml" beforeDir="false" />
     </list>
+    <ignored path="$PROJECT_DIR$/mavenTest/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/../../MyProjects/project00/src/com/leetcode/tempfilepath/leetcode/editor/cn/PlusOne.java" />
-        <option value="$PROJECT_DIR$/sort/src/BubbleSort.java" />
         <option value="$PROJECT_DIR$/mytest/src/PrintArray.java" />
         <option value="$PROJECT_DIR$/mytest/src/Sum.java" />
         <option value="$PROJECT_DIR$/mytest/src/Function.java" />
@@ -76,6 +89,10 @@
         <option value="$PROJECT_DIR$/MySQL/src/jdbc/poolTemp/datasource/druid/DruidDemo2.java" />
         <option value="$PROJECT_DIR$/MySQL/src/jdbc/poolTemp/jdbctemplate/JdbcTemplateDemo1.java" />
         <option value="$PROJECT_DIR$/MySQL/src/jdbc/poolTemp/jdbctemplate/JdbcTemplateDemo2.java" />
+        <option value="$PROJECT_DIR$/maven/src/a.java" />
+        <option value="$PROJECT_DIR$/redis/src/jedis/test/JedisTest.java" />
+        <option value="$PROJECT_DIR$/mavenTest/pom.xml" />
+        <option value="$PROJECT_DIR$/mavenTest/src/test/java/a.java" />
       </list>
     </option>
   </component>
@@ -84,6 +101,13 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
@@ -108,11 +132,12 @@
           <expand>
             <path>
               <item name="javaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="maven" type="462c0819:PsiDirectoryNode" />
+              <item name="mavenTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="mavenTest" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -132,15 +157,15 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\java\javaStudy\redis\src" />
       <recent name="E:\github\java\javaStudy\MySQL\src" />
       <recent name="E:\github\java\javaStudy\MySQL\src\jdbc\poolTemp" />
       <recent name="E:\github\java\javaStudy\MySQL\src\jdbc\properties" />
       <recent name="E:\github\java\javaStudy\MySQL\src\jdbc\基础入门" />
-      <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day25_测试_反射_注解" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -155,91 +180,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JDBCDemo8">
-    <configuration name="DruidDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdbc.poolTemp.datasource.druid.DruidDemo2" />
-      <module name="MySqlJDBC" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdbc.poolTemp.datasource.druid.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="JDBCDemo8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="jdbc.basic.jdbc.JDBCDemo8" />
-      <module name="MySqlJDBC" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdbc.basic.jdbc.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="JdbcTemplateDemo2.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MySqlJDBC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdbc.poolTemp.jdbctemplate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="jdbc.poolTemp.jdbctemplate" />
-      <option name="MAIN_CLASS_NAME" value="jdbc.poolTemp.jdbctemplate.JdbcTemplateDemo2" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+    <configuration name="hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hello" />
+      <module name="mavenTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="JdbcTemplateDemo2.test6_2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MySqlJDBC" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="jdbc.poolTemp.jdbctemplate.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="jdbc.poolTemp.jdbctemplate" />
-      <option name="MAIN_CLASS_NAME" value="jdbc.poolTemp.jdbctemplate.JdbcTemplateDemo2" />
-      <option name="METHOD_NAME" value="test6_2" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+    <configuration name="myTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="myTest" />
+      <module name="mavenTest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
-    <configuration name="JdbcTemplateDemo2.test7" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="MySqlJDBC" />
+    <configuration name="JedisTest.test8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="redis" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="jdbc.poolTemp.jdbctemplate.*" />
+          <option name="PATTERN" value="jedis.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="jdbc.poolTemp.jdbctemplate" />
-      <option name="MAIN_CLASS_NAME" value="jdbc.poolTemp.jdbctemplate.JdbcTemplateDemo2" />
-      <option name="METHOD_NAME" value="test7" />
+      <option name="PACKAGE_NAME" value="jedis.test" />
+      <option name="MAIN_CLASS_NAME" value="jedis.test.JedisTest" />
+      <option name="METHOD_NAME" value="test8" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -257,6 +224,40 @@
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="myTest.add" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myTest" />
+      <option name="METHOD_NAME" value="add" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="myTest.addTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenTest" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myTest" />
+      <option name="METHOD_NAME" value="addTest" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -289,19 +290,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.JdbcTemplateDemo2.test6_2" />
-      <item itemvalue="JUnit.JdbcTemplateDemo2.test7" />
-      <item itemvalue="JUnit.JdbcTemplateDemo2.test1" />
-      <item itemvalue="Application.DruidDemo2" />
-      <item itemvalue="Application.JDBCDemo8" />
+      <item itemvalue="JUnit.JedisTest.test8" />
+      <item itemvalue="Application.hello" />
+      <item itemvalue="Application.myTest" />
+      <item itemvalue="JUnit.myTest.add" />
+      <item itemvalue="JUnit.myTest.addTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.JDBCDemo8" />
-        <item itemvalue="Application.DruidDemo2" />
-        <item itemvalue="JUnit.JdbcTemplateDemo2.test1" />
-        <item itemvalue="JUnit.JdbcTemplateDemo2.test7" />
-        <item itemvalue="JUnit.JdbcTemplateDemo2.test6_2" />
+        <item itemvalue="JUnit.myTest.addTest" />
+        <item itemvalue="JUnit.myTest.add" />
+        <item itemvalue="Application.myTest" />
+        <item itemvalue="Application.hello" />
+        <item itemvalue="JUnit.JedisTest.test8" />
       </list>
     </recent_temporary>
   </component>
@@ -334,44 +335,44 @@
       <workItem from="1606635504906" duration="274000" />
       <workItem from="1606635792034" duration="5182000" />
       <workItem from="1606641764062" duration="2521000" />
-      <workItem from="1606644313636" duration="719000" />
+      <workItem from="1606644313636" duration="5863000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorTest_testSub - 2020.11.29 at 15h 05m 16s.xml">
-      <configuration name="CalculatorTest.testSub" configurationId="JUnit" />
+    <history-entry file="JedisTest_test2 - 2020.11.29 at 20h 32m 58s.xml">
+      <configuration name="JedisTest.test2" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorTest_testAdd - 2020.11.29 at 15h 45m 50s.xml">
-      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    <history-entry file="JedisTest_test3 - 2020.11.29 at 20h 34m 29s.xml">
+      <configuration name="JedisTest.test3" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JdbcTemplateDemo2_test1 - 2020.11.29 at 17h 58m 54s.xml">
-      <configuration name="JdbcTemplateDemo2.test1" configurationId="JUnit" />
+    <history-entry file="JedisTest_test4 - 2020.11.29 at 20h 35m 19s.xml">
+      <configuration name="JedisTest.test4" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JdbcTemplateDemo2_test2 - 2020.11.29 at 17h 59m 16s.xml">
-      <configuration name="JdbcTemplateDemo2.test2" configurationId="JUnit" />
+    <history-entry file="JedisTest_test5 - 2020.11.29 at 20h 35m 36s.xml">
+      <configuration name="JedisTest.test5" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JdbcTemplateDemo2_test4 - 2020.11.29 at 17h 59m 58s.xml">
-      <configuration name="JdbcTemplateDemo2.test4" configurationId="JUnit" />
+    <history-entry file="JedisTest_test6 - 2020.11.29 at 20h 36m 11s.xml">
+      <configuration name="JedisTest.test6" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JdbcTemplateDemo2_test5 - 2020.11.29 at 18h 00m 09s.xml">
-      <configuration name="JdbcTemplateDemo2.test5" configurationId="JUnit" />
+    <history-entry file="JedisTest_test7 - 2020.11.29 at 20h 36m 32s.xml">
+      <configuration name="JedisTest.test7" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JdbcTemplateDemo2_test6 - 2020.11.29 at 18h 00m 27s.xml">
-      <configuration name="JdbcTemplateDemo2.test6" configurationId="JUnit" />
+    <history-entry file="JedisTest_test8 - 2020.11.29 at 20h 36m 50s.xml">
+      <configuration name="JedisTest.test8" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JdbcTemplateDemo2_test6_2 - 2020.11.29 at 18h 00m 41s.xml">
-      <configuration name="JdbcTemplateDemo2.test6_2" configurationId="JUnit" />
+    <history-entry file="a_add - 2020.11.29 at 21h 17m 49s.xml">
+      <configuration name="a.add" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JdbcTemplateDemo2_test7 - 2020.11.29 at 18h 00m 49s.xml">
-      <configuration name="JdbcTemplateDemo2.test7" configurationId="JUnit" />
+    <history-entry file="a_addTest - 2020.11.29 at 21h 18m 14s.xml">
+      <configuration name="a.addTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="JdbcTemplateDemo2_test1 - 2020.11.29 at 18h 07m 36s.xml">
-      <configuration name="JdbcTemplateDemo2.test1" configurationId="JUnit" />
+    <history-entry file="myTest_addTest - 2020.11.29 at 21h 18m 57s.xml">
+      <configuration name="myTest.addTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24678000" />
+    <option name="totallyTimeSpent" value="29822000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -421,76 +422,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/test/CalculatorTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2538">
-          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo3.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo4.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/properties/pro.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="47">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="235">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/AnnoDemo1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="283">
-          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Person.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="94">
@@ -637,6 +568,89 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/maven/src/a.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/jedis.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="3" column="10" lean-forward="true" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/jedis/util/JedisPoolUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-822">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redis/src/jedis/test/JedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="193" column="24" lean-forward="true" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/maven/maven.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenTest/mavenTest.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="5" column="39" lean-forward="true" selection-start-line="5" selection-start-column="39" selection-end-line="5" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenTest/src/main/java/hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="13" column="14" lean-forward="true" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenTest/src/test/java/myTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenTest/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="846">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mavenTest/target/test-classes/myTest.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#0#258#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
@@ -689,7 +703,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>maven</last-edited>
+          <last-edited>mavenTest</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
