@@ -2,520 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/junit/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/junit/CalculatorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/test/CalculatorTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/properties/pro.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaBasic/javaBasic.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/javaBasic.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaBasic/lib/junit-4.10.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/mytest/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/mytest/src/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mytest/src/my202011/my00.java" beforeDir="false" afterPath="$PROJECT_DIR$/mytest/src/my202011/my00.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day01_入门程序/Demo01Const.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day01_入门程序/Demo02Variable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day01_入门程序/Demo03VariableNotice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day01_入门程序/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo01DataType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo02DataType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo03DataTypeChar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo04Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo05Plus.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo06Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo07Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo08Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo09Logic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo10Operator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo11Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo12Notice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day02_数据类型转换_运算符_方法/Demo13Notice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo01Sequence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo02If.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo03IfElse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo04IfElseExt.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo05IfElsePractise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo06Max.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo07Switch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo08SwitchNotice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo09For.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo10While.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo11DoWhile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo12HundredSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo13LoopDifference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo14Break.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo15Continue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo16DeadLoop.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day03_流程控制语句/Demo17LoopHourAndMinute.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo01/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo02/Demo01Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo02/Demo02MethodDefine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo02/Demo03MethodParam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo02/Demo04MethodReturn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo03/Demo01MethodSame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo03/Demo02MethodSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo03/Demo03MethodPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo03/Demo04MethodNotice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo04/Demo01MethodOverload.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo04/Demo02MethodOverloadSame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo04/Demo03OverloadJudge.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day04_IDEA_方法/demo04/Demo04OverloadPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo01/Demo01Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo01/Demo02Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo01/Demo03Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo01/Demo04ArrayUse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo01/Demo05ArrayUse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo02/Demo01ArrayOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo02/Demo02ArrayTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo02/Demo03ArraySame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo03/Demo01ArrayIndex.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo03/Demo02ArrayNull.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo03/Demo03ArrayLength.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo03/Demo04Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo03/Demo05ArrayMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo03/Demo06ArrayMin.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo03/Demo07ArrayReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo04/Demo01ArrayParam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day05_数组/demo04/Demo02ArrayReturn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo01/Demo01PrintArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo01/Demo02Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo01/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo02/Demo01PhoneOne.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo02/Demo02PhoneTwo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo02/Demo03PhoneSame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo02/Demo04PhoneParam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo02/Demo05PhoneReturn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo02/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo03/Demo01VariableDifference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo03/Demo02Method.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo03/Demo03Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo03/Demo04Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo03/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo03/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo04/Demo01Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo04/Demo02Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo04/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo04/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo05/Demo01Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo05/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo05/person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day06_面向对象/demo05/personTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo01/Demo01Scanner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo01/Demo02ScannerSum.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo01/Demo03ScannerMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo02/Demo01Anonymous.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo02/Demo02Anonymous.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo02/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo03/Demo01Random.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo03/Demo02Random.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo03/Demo03Random.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo03/Demo04RandomGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo04/Demo01Array.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo04/Demo02ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo04/Demo03ArrayListMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo04/Demo04ArrayListEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo04/Demo05ArrayListBasic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo04/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo05/Demo01ArrayListRandom.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo05/Demo02ArrayListStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo05/Demo03ArrayListPrint.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo05/Demo04ArrayListReturn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day07_scaner_random_arraylist/demo05/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo01/Demo01String.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo01/Demo02StringPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo02/Demo01StringEquals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo02/Demo02StringGet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo02/Demo03Substring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo02/Demo04StringConvert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo02/Demo05StringSplit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo02/Demo06StringPractise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo02/Demo07StringCount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo03/Demo01StaticField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo03/Demo02StaticMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo03/Demo03StaticStudent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo03/Demo04Static.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo03/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo03/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo03/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo04/Demo01Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo04/Demo02ArraysPractise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo04/Demo03Math.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day08_string_static_math/demo04/Demo04MathPractise.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo01/Assistant.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo01/Demo01Extends.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo01/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo01/Teacher.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo02/Demo01ExtendsField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo02/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo02/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo03/Demo01ExtendsField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo03/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo03/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo04/Demo01ExtendsMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo04/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo04/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo05/Demo01Override.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo05/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo05/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo06/Demo01Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo06/NewPhone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo06/Phone.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo07/Demo01Constructor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo07/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo07/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo08/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo08/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo09/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo09/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo10/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo10/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo10/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo11/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo11/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo11/DemoMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo12/DemoMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo12/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo12/MyAbstract.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo12/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo13/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo13/DemoMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo13/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo13/Dog2Ha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo13/DogGolden.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo14/MainRedPacket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo14/Manager.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo14/Member.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day09_继承_抽象类/demo14/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/Demo01Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/Demo02Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/Demo03Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/Demo04Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/Demo05Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfaceAbstract.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfaceAbstractImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfaceConst.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfaceDefault.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfaceDefaultA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfaceDefaultB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfacePrivateA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfacePrivateAImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfacePrivateB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfaceStatic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo01/MyInterfaceStaticImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo02/Demo01Interface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo02/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo02/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo02/MyInterfaceA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo02/MyInterfaceAbstract.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo02/MyInterfaceB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo02/MyInterfaceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo02/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo03/Demo01Relations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo03/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo03/MyInterfaceA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo03/MyInterfaceB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo03/MyInterfaceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo04/Demo01Multi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo04/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo04/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo05/Demo01MultiField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo05/Demo02MultiMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo05/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo05/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo06/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo06/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo06/Demo01Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo06/Demo02Instanceof.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo06/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo07/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo07/DemoMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo07/Keyboard.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo07/Mouse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day10_接口_多态/demo07/USB.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo01/Demo01Final.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo01/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo01/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo01/MySubClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo01/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo01/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo01/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo02/Demo01Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo02/MyAnother.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo02/MyClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo02/sub/MySon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo02/sub/Stranger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo03/Body$Heart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo03/Body.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo03/Demo01InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo03/Demo02InnerClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo03/Outer$Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo03/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo04/DemoMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo04/MyOuter$1MyInner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo04/MyOuter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo04/Outer$1Inner.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo04/Outer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo05/DemoMain$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo05/DemoMain$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo05/DemoMain$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo05/DemoMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo05/MyInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo05/MyInterfaceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo06/DemoMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo06/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo06/Weapon.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo07/DemoGame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo07/DemoGame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo07/DemoInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo07/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo07/Skill.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo07/SkillImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo08/Bootstrap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo08/MyRed.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo08/NormalMode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/demo08/RandomMode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/red/OpenMode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/red/RedPacketFrame$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/red/RedPacketFrame$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/red/RedPacketFrame$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/red/RedPacketFrame$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/red/RedPacketFrame$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/red/RedPacketFrame$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day11_final_权限_内部类/red/RedPacketFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo01/Object/Demo01ToString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo01/Object/Demo02Equals.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo01/Object/Demo03Objects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo01/Object/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo02/Date/Demo01Date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo02/Date/Demo02Date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo03/DateFormat/Demo01DateFormat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo03/DateFormat/Demo02Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo04/Calendar/Demo01Calendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo04/Calendar/Demo02Calendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo05/System/Demo01System.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo06StringBuilder/Demo01StringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo06StringBuilder/Demo02StringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo06StringBuilder/Demo03StringBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo07Integer/Demo01Integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo07Integer/Demo02Ineger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day12_常用类/demo07Integer/Demo03Integer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo01/Collection/Demo01Collection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo02/Iterator/Demo01Iterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo02/Iterator/Demo02Foreach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/Demo01Generic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/Demo02GenericClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/Demo03GenericMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/Demo04GenericInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/Demo05Generic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/Demo06Generic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/GenericClass.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/GenericInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/GenericInterfaceImpl1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/GenericInterfaceImpl2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo03/Generic/GenericMethod.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day13_集合_泛型/demo04/Test/DouDiZhu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo01/List/Demo01List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo01/List/Demo02LinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo02/Set/Demo01Set.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo02/Set/Demo02HashSetSaveString.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo02/Set/Demo03HashSetSavePerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo02/Set/Demo04LinkedHashSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo02/Set/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo03/hashCode/Demo01HashCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo03/hashCode/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo04/VarArgs/Demo01VarArgs.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo05/Collections/Demo01Collections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo05/Collections/Demo02Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo05/Collections/Demo03Sort$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo05/Collections/Demo03Sort$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo05/Collections/Demo03Sort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo05/Collections/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day14_list_set_数据结构/demo05/Collections/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day15_Map/demo01/Map/Demo01Map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day15_Map/demo01/Map/Demo02KeySet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day15_Map/demo01/Map/Demo03EntrySet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day15_Map/demo02/Map/Demo01HashMapSavePerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day15_Map/demo02/Map/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day15_Map/demo03/Map/Demo01LinkedHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day15_Map/demo03/Map/Demo02Hashtable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day15_Map/demo03/Map/Demo03MapTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day15_Map/demo05/Debug/Demo01Debug.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day15_Map/demo06/Test/DouDiZhu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo01/Exception/Demo01Exception.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo01/Exception/Demo02Exception.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo01/Exception/Demo03Throw.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo01/Exception/Demo04Objects.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo01/Exception/Demo05Throws.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo02/Exception/Demo01TryCatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo02/Exception/Demo02TryCatchFinally.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo03/Exception/Demo01Exception.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo03/Exception/Demo02Exception.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo03/Exception/Fu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo03/Exception/Zi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo04/MyException/Demo01RegisterException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo04/MyException/Demo02RegisterException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo04/MyException/RegisterException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo05/Thread/Demo01MainThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo05/Thread/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo06/Thread/Demo01Thread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day16_异常_线程/demo06/Thread/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo01/getName/Demo01GetThreadName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo01/getName/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo02/setName/Demo01SetThreadName.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo02/setName/MyThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo03/sleep/Demo01Sleep.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo04/Runnable/Demo01Runnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo04/Runnable/RunnableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo04/Runnable/RunnableImpl2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo05/InnerClassThread/Demo01InnerClassThread$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo05/InnerClassThread/Demo01InnerClassThread$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo05/InnerClassThread/Demo01InnerClassThread$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo05/InnerClassThread/Demo01InnerClassThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo06/ThreadSafe/Demo01Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo06/ThreadSafe/RunnableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo07/Synchronized/Demo01Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo07/Synchronized/RunnableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo08/Synchronized/Demo01Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo08/Synchronized/RunnableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo09/Lock/Demo01Ticket.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo09/Lock/RunnableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo10/WaitAndNotify/Demo01WaitAndNotify$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo10/WaitAndNotify/Demo01WaitAndNotify$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo10/WaitAndNotify/Demo01WaitAndNotify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo10/WaitAndNotify/Demo02WaitAndNotify$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo10/WaitAndNotify/Demo02WaitAndNotify$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo10/WaitAndNotify/Demo02WaitAndNotify$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day17_线程_同步/demo10/WaitAndNotify/Demo02WaitAndNotify.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo01/WaitAndNotify/BaoZi.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo01/WaitAndNotify/BaoZiPu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo01/WaitAndNotify/ChiHuo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo01/WaitAndNotify/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo02/ThreadPool/Demo01ThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo02/ThreadPool/RunnableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo03/Lambda/Demo01Runnable$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo03/Lambda/Demo01Runnable$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo03/Lambda/Demo01Runnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo03/Lambda/Demo02Lambda$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo03/Lambda/Demo02Lambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo03/Lambda/RunnableImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo04/Lambda/Cook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo04/Lambda/Demo01Cook$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo04/Lambda/Demo01Cook.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo05/Lambda/Demo01Arrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo05/Lambda/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo06/Lambda/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo06/Lambda/Demo01Calculator$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo06/Lambda/Demo01Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day18_线程池与lambda表达式/demo07/Lambda/Demo01ArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo01/File/Demo01File.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo01/File/Demo02File.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo01/File/Demo03File.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo01/File/Demo04File.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo01/File/Demo05File.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo01/File/Demo06File.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo02/Recursion/Demo01Recurison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo02/Recursion/Demo02Recurison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo02/Recursion/Demo03Recurison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo02/Recursion/Demo04Recurison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo02/Recursion/Demo05Recurison.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo03Filter/Demo01Filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo03Filter/Demo02Filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day19_File类_递归/demo03Filter/FileFilterImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/Demo04/Reader/Demo01InputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/Demo04/Reader/Demo02Reader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/Demo05Writer/Demo01Writer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/Demo05Writer/Demo02CloseAndFlush.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/Demo05Writer/Demo03Writer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/Demo05Writer/Demo04Writer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/demo01/OutputStream/Demo01OutputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/demo01/OutputStream/Demo02OutputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/demo01/OutputStream/Demo03OutputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/demo02/InputStream/Demo01InputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/demo02/InputStream/Demo02InputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/demo03/CopyFile/Demo01CopyFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/demo06/trycatch/Demo01TryCatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/demo06/trycatch/Demo02JDK7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day20_字节流_字符流/demo07/Prop/Demo01Properties.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo01/BufferedStream/Demo01BufferedOutputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo01/BufferedStream/Demo02BufferedInputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo01/BufferedStream/Demo03BufferedWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo01/BufferedStream/Demo04BufferedReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo01/BufferedStream/Demo05Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo02/CopyFile/Demo01CopyFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo02/CopyFile/Demo02CopyFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo03/ReverseStream/Demo01FileReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo03/ReverseStream/Demo02OutputStreamWriter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo03/ReverseStream/Demo03InputStreamReader.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo03/ReverseStream/Demo04Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo04/ObjectStream/Demo01ObjectOutputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo04/ObjectStream/Demo02ObjectInputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo04/ObjectStream/Demo03Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo04/ObjectStream/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo05/PrintStream/Demo01PrintStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day21_缓冲流_转换流_序列化/demo05/PrintStream/Demo02PrintStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day22_网络编程/demo01/TCP/TCPClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day22_网络编程/demo01/TCP/TCPServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day22_网络编程/demo02/FileUpload/TCPClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day22_网络编程/demo02/FileUpload/TCPServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day22_网络编程/demo03/FileUpload/TCPClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day22_网络编程/demo03/FileUpload/TCPServer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day22_网络编程/demo03/FileUpload/TCPServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day22_网络编程/demo04/BSTCP/TCPServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day22_网络编程/demo04/BSTCP/TCPServerThread$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day22_网络编程/demo04/BSTCP/TCPServerThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo01/FunctionalInterface/Demo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo01/FunctionalInterface/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo01/FunctionalInterface/MyFunctionalInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo01/FunctionalInterface/MyFunctionalInterfaceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo02/Lambda/Demo01Logger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo02/Lambda/Demo02Lambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo02/Lambda/MessageBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo03/LambdaTest/Demo01Runnable$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo03/LambdaTest/Demo01Runnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo03/LambdaTest/Demo02Comparator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo04/Supplier/Demo01Supplier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo04/Supplier/Demo02Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo05/Consumer/Demo01Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo05/Consumer/Demo02AndThen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo05/Consumer/Demo03Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo06/Predicate/Demo01Predicate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo06/Predicate/Demo02Predicate_and.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo06/Predicate/Demo03Predicate_or.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo06/Predicate/Demo04Predicate_negate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo06/Predicate/Demo05Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo07/Function/Demo01Function.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo07/Function/Demo02Function_andThen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day23_函数式接口/demo07/Function/Demo03Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo01/Stream/Demo01List.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo01/Stream/Demo02Stream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo02/Stream/Demo01GetStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo02/Stream/Demo02Stream_forEach.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo02/Stream/Demo03Stream_filter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo02/Stream/Demo04Stream_map.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo02/Stream/Demo05Stream_count.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo02/Stream/Demo06Stream_limit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo02/Stream/Demo07Stream_skip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo02/Stream/Demo08Stream_concat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo03/Stream/Demo01StreamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo03/Stream/Demo02StreamTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo03/Stream/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo04/MethodReference/Demo01Printable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo04/MethodReference/Printable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo05/ObjectMethodReference/Demo01ObjectMethodReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo05/ObjectMethodReference/MethodRerObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo05/ObjectMethodReference/Printable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo06/StaticMethodReference/Calcable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo06/StaticMethodReference/Demo01StaticMethodReference.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo07/SuperMethodReference/Greetable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo07/SuperMethodReference/Human.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo07/SuperMethodReference/Man.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo08/ThisMethodReference/Husband.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo08/ThisMethodReference/Richable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo09/ConstructorMethodReference/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo09/ConstructorMethodReference/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo09/ConstructorMethodReference/PersonBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo10/ArrayMethodReference/ArrayBuilder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/itheima/day24_stream流_方法引用/demo10/ArrayMethodReference/Demo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mytest/Hello.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mytest/my202011/my00.class" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -526,29 +21,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/junit/Calculator.java">
+      <file leaf-file-name="ReflectDemo1.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1363">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/junit/CalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="15" column="27" selection-start-line="15" selection-start-column="27" selection-end-line="15" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="CalculatorTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/test/CalculatorTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1269">
-              <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="423">
+              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -556,15 +33,68 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Hello.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/mytest/src/Hello.java">
+      <file leaf-file-name="ReflectDemo2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2538">
+              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectDemo3.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo3.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="423">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
               <folding>
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#158#159#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectDemo4.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo4.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="141">
+              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ReflectTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="489">
+              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pro.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/properties/pro.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="47">
+              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -608,6 +138,13 @@
         <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/test/CalculatorTest.java" />
         <option value="$PROJECT_DIR$/untitled/src/a.java" />
         <option value="$PROJECT_DIR$/mytest/src/Hello.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo2.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo3.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo4.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo1.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/properties/pro.properties" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Person.java" />
       </list>
     </option>
   </component>
@@ -648,24 +185,40 @@
             </path>
             <path>
               <item name="javaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mytest" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="javaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mytest" type="462c0819:PsiDirectoryNode" />
+              <item name="javaBasic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaStudy" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="javaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="day25_测试_反射_注解" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="day25_测试_反射_注解" type="462c0819:PsiDirectoryNode" />
+              <item name="domain" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="javaStudy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="javaBasic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="itheima" type="462c0819:PsiDirectoryNode" />
+              <item name="day25_测试_反射_注解" type="462c0819:PsiDirectoryNode" />
+              <item name="reflect" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -682,11 +235,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day25_测试_反射_注解\test" />
+      <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\properties" />
       <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day25_测试_反射_注解" />
+      <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day25_测试_反射_注解\test" />
       <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day11_final_权限_内部类" />
       <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day11_final_权限_内部类\demo02" />
-      <recent name="E:\Java_IntelliJ_IDEA_WorkSpace\github2\javaStudy\javaBasic\src\itheima" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -701,48 +254,53 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorTest.testAdd">
-    <configuration name="CalculatorTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.junit.CalculatorTest" />
+  <component name="RunManager" selected="Application.ReflectTest">
+    <configuration name="ReflectDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.reflect.ReflectDemo1" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="itheima.day25_测试_反射_注解.junit.*" />
+          <option name="PATTERN" value="itheima.day25_测试_反射_注解.reflect.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="mytest" />
+    <configuration name="ReflectDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.reflect.ReflectDemo2" />
+      <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itheima.day25_测试_反射_注解.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReflectDemo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.reflect.ReflectDemo4" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itheima.day25_测试_反射_注解.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.reflect.ReflectTest" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itheima.day25_测试_反射_注解.reflect.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="itheima.day25_测试_反射_注解.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="itheima.day25_测试_反射_注解.test" />
-      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.test.CalculatorTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
     </configuration>
     <configuration name="CalculatorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="javaBasic" />
@@ -757,29 +315,6 @@
       <option name="PACKAGE_NAME" value="itheima.day25_测试_反射_注解.test" />
       <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.test.CalculatorTest" />
       <option name="METHOD_NAME" value="testAdd" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration name="CalculatorTest.testSub" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="javaBasic" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="itheima.day25_测试_反射_注解.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="itheima.day25_测试_反射_注解.test" />
-      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.test.CalculatorTest" />
-      <option name="METHOD_NAME" value="testSub" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
@@ -829,19 +364,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.CalculatorTest" />
       <item itemvalue="JUnit.CalculatorTest.testAdd" />
-      <item itemvalue="JUnit.CalculatorTest.testSub" />
-      <item itemvalue="JUnit.CalculatorTest" />
-      <item itemvalue="Application.Hello" />
+      <item itemvalue="Application.ReflectDemo1" />
+      <item itemvalue="Application.ReflectDemo2" />
+      <item itemvalue="Application.ReflectDemo4" />
+      <item itemvalue="Application.ReflectTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReflectTest" />
+        <item itemvalue="Application.ReflectDemo4" />
+        <item itemvalue="Application.ReflectDemo2" />
+        <item itemvalue="Application.ReflectDemo1" />
         <item itemvalue="JUnit.CalculatorTest.testAdd" />
-        <item itemvalue="Application.Hello" />
-        <item itemvalue="JUnit.CalculatorTest" />
-        <item itemvalue="JUnit.CalculatorTest.testSub" />
-        <item itemvalue="Application.CalculatorTest" />
       </list>
     </recent_temporary>
   </component>
@@ -872,6 +407,7 @@
       <workItem from="1606574805803" duration="9339000" />
       <workItem from="1606635229408" duration="255000" />
       <workItem from="1606635504906" duration="274000" />
+      <workItem from="1606635792034" duration="1415000" />
     </task>
     <servers />
   </component>
@@ -888,9 +424,12 @@
     <history-entry file="CalculatorTest_testSub - 2020.11.29 at 15h 05m 16s.xml">
       <configuration name="CalculatorTest.testSub" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2020.11.29 at 15h 45m 50s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16256000" />
+    <option name="totallyTimeSpent" value="17671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -899,20 +438,20 @@
       <window_info anchor="right" id="PlantUML" order="3" />
       <window_info anchor="right" id="Palette" order="10" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Messages" order="11" visible="true" weight="0.2957447" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.2957447" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005208" side_tool="true" weight="0.34680852" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.25106382" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.26276594" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="leetcode" order="5" side_tool="true" weight="0.038541667" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19791667" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -935,14 +474,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/a/src/a.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/com/leetcode/tempfilepath/leetcode/editor/cn/LongestSubstringWithoutRepeatingCharacters.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/com/leetcode/tempfilepath/leetcode/editor/cn/AddBinary.java" />
-    <entry file="file://$PROJECT_DIR$/../../MyProjects/project00/src/com/leetcode/tempfilepath/leetcode/editor/cn/PlusOne.java" />
-    <entry file="file://$PROJECT_DIR$/../../MyProjects/project00/src/com/leetcode/tempfilepath/leetcode/editor/cn/TwoSum.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/com/leetcode/tempfilepath/leetcode/editor/cn/LengthOfLastWord.java" />
-    <entry file="file://$PROJECT_DIR$/../../MyProjects/project00/src/com/leetcode/tempfilepath/leetcode/editor/cn/ClimbingStairs.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/com/leetcode/tempfilepath/leetcode/editor/cn/ClimbingStairs.java" />
     <entry file="file://$PROJECT_DIR$/../../MyProjects/project00/src/com/leetcode/tempfilepath/leetcode/editor/cn/MergeSortedArray.java" />
     <entry file="file://$PROJECT_DIR$/leetcode/src/com/leetcode/tempfilepath/leetcode/editor/cn/MergeSortedArray.java" />
     <entry file="file://$PROJECT_DIR$/.gitattributes">
@@ -1127,24 +658,95 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/untitled/src/a.java" />
+    <entry file="file://$PROJECT_DIR$/mytest/src/Hello.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#107#108#0" expanded="true" />
+            <element signature="e#156#157#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/test/CalculatorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1269">
-          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        <state relative-caret-position="325">
+          <caret line="30" column="7" lean-forward="true" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mytest/src/Hello.java">
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="423">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
           <folding>
-            <element signature="e#109#110#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2538">
+          <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/properties/pro.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="489">
+          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
         </state>
       </provider>
     </entry>
