@@ -11,10 +11,8 @@ import org.junit.Test;
 public class myTest {
 
     @Test
-    public void addTest(){
-        System.out.println(1+2);
+    public void printTest(){
+        System.out.println("hello");
     }
-
-
 
 }
