@@ -2,14 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/properties/pro.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/AnnoDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/AnnoDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/MyAnno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/MyAnno2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/MyAnno3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Pro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/ReflectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Teacher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/Check.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/TestCheck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,80 +28,39 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ReflectDemo1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo1.java">
+      <file leaf-file-name="Calculator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/Calculator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
+            <state relative-caret-position="189">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#288#289#0" expanded="true" />
+                <element signature="e#343#344#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ReflectDemo2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2538">
-              <caret line="84" lean-forward="true" selection-start-line="84" selection-end-line="84" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReflectDemo3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReflectDemo4.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectDemo4.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="63" lean-forward="true" selection-start-line="63" selection-end-line="63" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReflectTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Person.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Person.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="338">
-              <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pro.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/properties/pro.properties">
+      <file leaf-file-name="Check.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/Check.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="47">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCheck.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/TestCheck.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="423">
+              <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -145,6 +111,11 @@
         <option value="$PROJECT_DIR$/javaBasic/src/itheima/properties/pro.properties" />
         <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectTest.java" />
         <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Person.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/Check.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/ReflectTest.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/MyAnno.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Worker.java" />
+        <option value="$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/TestCheck.java" />
       </list>
     </option>
   </component>
@@ -202,7 +173,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="itheima" type="462c0819:PsiDirectoryNode" />
               <item name="day25_测试_反射_注解" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="javaStudy" type="b2602c69:ProjectViewProjectNode" />
@@ -210,7 +181,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="itheima" type="462c0819:PsiDirectoryNode" />
               <item name="day25_测试_反射_注解" type="462c0819:PsiDirectoryNode" />
-              <item name="reflect" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="demo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -235,8 +207,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\properties" />
       <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day25_测试_反射_注解" />
+      <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\properties" />
       <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day25_测试_反射_注解\test" />
       <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day11_final_权限_内部类" />
       <recent name="E:\github\java\javaStudy\javaBasic\src\itheima\day11_final_权限_内部类\demo02" />
@@ -254,18 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ReflectTest">
-    <configuration name="ReflectDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.reflect.ReflectDemo1" />
-      <module name="javaBasic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="itheima.day25_测试_反射_注解.reflect.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.TestCheck">
     <configuration name="ReflectDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.reflect.ReflectDemo2" />
       <module name="javaBasic" />
@@ -288,6 +249,17 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="ReflectTest (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.annotation.ReflectTest" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="itheima.day25_测试_反射_注解.annotation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="ReflectTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.reflect.ReflectTest" />
       <module name="javaBasic" />
@@ -299,31 +271,19 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="CalculatorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestCheck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.annotation.demo.TestCheck" />
       <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="itheima.day25_测试_反射_注解.test.*" />
+          <option name="PATTERN" value="itheima.day25_测试_反射_注解.annotation.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="itheima.day25_测试_反射_注解.test" />
-      <option name="MAIN_CLASS_NAME" value="itheima.day25_测试_反射_注解.test.CalculatorTest" />
-      <option name="METHOD_NAME" value="testAdd" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -364,19 +324,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="JUnit.CalculatorTest.testAdd" />
-      <item itemvalue="Application.ReflectDemo1" />
       <item itemvalue="Application.ReflectDemo2" />
       <item itemvalue="Application.ReflectDemo4" />
       <item itemvalue="Application.ReflectTest" />
+      <item itemvalue="Application.ReflectTest (1)" />
+      <item itemvalue="Application.TestCheck" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCheck" />
+        <item itemvalue="Application.ReflectTest (1)" />
         <item itemvalue="Application.ReflectTest" />
         <item itemvalue="Application.ReflectDemo4" />
         <item itemvalue="Application.ReflectDemo2" />
-        <item itemvalue="Application.ReflectDemo1" />
-        <item itemvalue="JUnit.CalculatorTest.testAdd" />
       </list>
     </recent_temporary>
   </component>
@@ -407,7 +367,7 @@
       <workItem from="1606574805803" duration="9339000" />
       <workItem from="1606635229408" duration="255000" />
       <workItem from="1606635504906" duration="274000" />
-      <workItem from="1606635792034" duration="1415000" />
+      <workItem from="1606635792034" duration="3881000" />
     </task>
     <servers />
   </component>
@@ -429,7 +389,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17671000" />
+    <option name="totallyTimeSpent" value="20137000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -445,13 +405,13 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5005208" side_tool="true" weight="0.34680852" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.26276594" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" visible="true" weight="0.2957447" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="right" id="leetcode" order="5" side_tool="true" weight="0.038541667" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19791667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1484375" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -474,36 +434,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../../MyProjects/project00/src/com/leetcode/tempfilepath/leetcode/editor/cn/MergeSortedArray.java" />
-    <entry file="file://$PROJECT_DIR$/leetcode/src/com/leetcode/tempfilepath/leetcode/editor/cn/MergeSortedArray.java" />
-    <entry file="file://$PROJECT_DIR$/.gitattributes">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/src/com/leetcode/tempfilepath/leetcode/editor/cn/CountAndSay.java" />
-    <entry file="file://$PROJECT_DIR$/mytest/src/PrintArray.java" />
-    <entry file="file://$PROJECT_DIR$/sort/src/BubbleSort.java" />
-    <entry file="file://$PROJECT_DIR$/mytest/src/Function.java" />
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mytest/src/Sum.java" />
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/hello.java" />
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/basic/A测试/注解/demo/bug.txt" />
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/basic/黑马程序员课程/基础加强/反射/reflect/Demo04.java" />
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/basic/A测试/junit/junit_cal.java" />
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/basic/Hello.java" />
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day02_数据类型转换_运算符_方法/Demo05Plus.java" />
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/test.java" />
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/Person.java" />
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/基础加强/反射/reflect/Demo01.java" />
@@ -733,20 +663,145 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="47" column="5" lean-forward="true" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/reflect/ReflectTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="57" lean-forward="true" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="235">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/domain/Person.java">
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/AnnoDemo1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="51" column="42" selection-start-line="51" selection-start-column="42" selection-end-line="51" selection-end-column="42" />
+        <state relative-caret-position="283">
+          <caret line="12" column="13" lean-forward="true" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Demo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/AnnoDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#339#340#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Demo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/ReflectTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1457">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Pro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/MyAnno3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="14" column="3" lean-forward="true" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/MyAnno.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/Check.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="47">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/bug.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="329">
+          <caret line="7" column="26" lean-forward="true" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#343#344#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/javaBasic/src/itheima/day25_测试_反射_注解/annotation/demo/TestCheck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="27" lean-forward="true" selection-start-line="27" selection-end-line="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
