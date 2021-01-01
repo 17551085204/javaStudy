@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day01/HelloJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day01/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mytest/src/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/mytest/src/Hello.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mytest/Hello.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mytest/Hello.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,6 +51,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -67,7 +66,7 @@
       <recent name="E:\github\java\javaStudy\MySQL\src\jdbc\基础入门" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hello (1)">
+  <component name="RunManager" selected="Application.HelloJava">
     <configuration name="Hello (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="mytest" />
@@ -76,10 +75,30 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="mavenTest" />
+    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day01.HelloJava" />
+      <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day01.HelloWorld" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,17 +132,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="myTest.printTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="mavenTest" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="myTest" />
-      <option name="METHOD_NAME" value="printTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
@@ -134,19 +142,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Hello" />
       <item itemvalue="Application.Hello (1)" />
       <item itemvalue="Application.a" />
-      <item itemvalue="JUnit.myTest.printTest" />
       <item itemvalue="Application.my" />
+      <item itemvalue="Application.HelloWorld" />
+      <item itemvalue="Application.HelloJava" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HelloJava" />
+        <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Hello (1)" />
         <item itemvalue="Application.my" />
         <item itemvalue="Application.a" />
-        <item itemvalue="JUnit.myTest.printTest" />
-        <item itemvalue="Application.Hello" />
       </list>
     </recent_temporary>
   </component>
@@ -181,62 +189,30 @@
       <workItem from="1606641764062" duration="2521000" />
       <workItem from="1606644313636" duration="8527000" />
       <workItem from="1606659310026" duration="83000" />
-      <workItem from="1609483967560" duration="1626000" />
+      <workItem from="1609483967560" duration="4529000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="JedisTest_test7 - 2020.11.29 at 20h 36m 32s.xml">
-      <configuration name="JedisTest.test7" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="JedisTest_test8 - 2020.11.29 at 20h 36m 50s.xml">
-      <configuration name="JedisTest.test8" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="a_add - 2020.11.29 at 21h 17m 49s.xml">
-      <configuration name="a.add" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="a_addTest - 2020.11.29 at 21h 18m 14s.xml">
-      <configuration name="a.addTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="myTest_addTest - 2020.11.29 at 21h 18m 57s.xml">
-      <configuration name="myTest.addTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="myTest_addTest - 2020.11.29 at 21h 29m 25s.xml">
-      <configuration name="myTest.addTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="myTest_addTest - 2020.11.29 at 21h 35m 22s.xml">
-      <configuration name="myTest.addTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="AppTest_shouldAnswerWithTrue - 2020.11.29 at 21h 46m 40s.xml">
-      <configuration name="AppTest.shouldAnswerWithTrue" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="myTest_printTest - 2020.11.29 at 22h 03m 06s.xml">
-      <configuration name="myTest.printTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="myTest_printTest - 2020.11.29 at 22h 03m 26s.xml">
-      <configuration name="myTest.printTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="957" height="103" key="GridCell.Tab.0.bottom" timestamp="1609487226136">
+    <state width="913" height="225" key="GridCell.Tab.0.bottom" timestamp="1609505072781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="957" height="103" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609487226136" />
-    <state width="957" height="103" key="GridCell.Tab.0.center" timestamp="1609487226135">
+    <state width="913" height="225" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609505072781" />
+    <state width="913" height="225" key="GridCell.Tab.0.center" timestamp="1609505072781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="957" height="103" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609487226135" />
-    <state width="957" height="103" key="GridCell.Tab.0.left" timestamp="1609487226135">
+    <state width="913" height="225" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609505072781" />
+    <state width="913" height="225" key="GridCell.Tab.0.left" timestamp="1609505072780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="957" height="103" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609487226135" />
-    <state width="957" height="103" key="GridCell.Tab.0.right" timestamp="1609487226136">
+    <state width="913" height="225" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609505072780" />
+    <state width="913" height="225" key="GridCell.Tab.0.right" timestamp="1609505072781">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="957" height="103" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609487226136" />
+    <state width="913" height="225" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609505072781" />
   </component>
   <component name="masterDetails">
     <states>

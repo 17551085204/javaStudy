@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day01/HelloJava.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day01/myhello/index.html" charset="GBK" />
     <file url="file://$PROJECT_DIR$/maven" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/mavenTest" charset="UTF-8" />
   </component>
