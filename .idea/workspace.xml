@@ -64,7 +64,7 @@
       <recent name="E:\github\java\javaStudy\MySQL\src\jdbc\基础入门" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HelloJava">
+  <component name="RunManager" selected="Application.IdentifierTest">
     <configuration name="Hello (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="mytest" />
@@ -101,15 +101,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="IdentifierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.IdentifierTest" />
+      <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="a" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="a" />
-      <module name="MySqlJDBC" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -141,18 +147,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Hello (1)" />
-      <item itemvalue="Application.a" />
       <item itemvalue="Application.my" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.HelloJava" />
+      <item itemvalue="Application.IdentifierTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IdentifierTest" />
         <item itemvalue="Application.HelloJava" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Hello (1)" />
         <item itemvalue="Application.my" />
-        <item itemvalue="Application.a" />
       </list>
     </recent_temporary>
   </component>
