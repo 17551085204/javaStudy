@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day02/VariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day02/VariableTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day02/VariableTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day02/VariableTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day02/VariableTest4.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day02/VariableTest4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,45 +65,9 @@
       <recent name="E:\github\java\javaStudy\MySQL\src\jdbc\properties" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VariableTest">
-    <configuration name="Hello (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hello" />
-      <module name="mytest" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloJava" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day01.HelloJava" />
-      <module name="javaBasic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day01.HelloWorld" />
-      <module name="javaBasic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day01.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IdentifierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.IdentifierTest" />
+  <component name="RunManager" selected="Application.CharacterDemo">
+    <configuration name="CharacterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.CharacterDemo" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -117,6 +82,48 @@
     </configuration>
     <configuration name="VariableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.VariableTest" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.VariableTest1" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.VariableTest3" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VariableTest4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.VariableTest4" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -152,19 +159,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Hello (1)" />
-      <item itemvalue="Application.HelloWorld" />
-      <item itemvalue="Application.HelloJava" />
-      <item itemvalue="Application.IdentifierTest" />
       <item itemvalue="Application.VariableTest" />
+      <item itemvalue="Application.VariableTest1" />
+      <item itemvalue="Application.VariableTest3" />
+      <item itemvalue="Application.VariableTest4" />
+      <item itemvalue="Application.CharacterDemo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.CharacterDemo" />
+        <item itemvalue="Application.VariableTest4" />
+        <item itemvalue="Application.VariableTest3" />
+        <item itemvalue="Application.VariableTest1" />
         <item itemvalue="Application.VariableTest" />
-        <item itemvalue="Application.IdentifierTest" />
-        <item itemvalue="Application.HelloJava" />
-        <item itemvalue="Application.HelloWorld" />
-        <item itemvalue="Application.Hello (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -200,7 +207,7 @@
       <workItem from="1606644313636" duration="8527000" />
       <workItem from="1606659310026" duration="83000" />
       <workItem from="1609483967560" duration="5937000" />
-      <workItem from="1609597532834" duration="1826000" />
+      <workItem from="1609597532834" duration="2719000" />
     </task>
     <servers />
   </component>
@@ -208,22 +215,22 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="194" key="GridCell.Tab.0.bottom" timestamp="1609662836386">
+    <state width="1876" height="194" key="GridCell.Tab.0.bottom" timestamp="1609663771279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609662836386" />
-    <state width="1876" height="194" key="GridCell.Tab.0.center" timestamp="1609662836385">
+    <state width="1876" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609663771279" />
+    <state width="1876" height="194" key="GridCell.Tab.0.center" timestamp="1609663771279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="194" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609662836385" />
-    <state width="1876" height="194" key="GridCell.Tab.0.left" timestamp="1609662836384">
+    <state width="1876" height="194" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609663771279" />
+    <state width="1876" height="194" key="GridCell.Tab.0.left" timestamp="1609663771278">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="194" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609662836384" />
-    <state width="1876" height="194" key="GridCell.Tab.0.right" timestamp="1609662836386">
+    <state width="1876" height="194" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609663771278" />
+    <state width="1876" height="194" key="GridCell.Tab.0.right" timestamp="1609663771279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="194" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609662836386" />
+    <state width="1876" height="194" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609663771279" />
   </component>
   <component name="masterDetails">
     <states>
