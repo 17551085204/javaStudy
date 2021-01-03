@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day01/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day01/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day02/VariableTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day02/VariableTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +46,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day02" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -57,14 +57,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\java\javaStudy\javaBasic\src\尚硅谷\java基础\day01_day05\day02" />
       <recent name="E:\github\java\javaStudy\redis\src" />
       <recent name="E:\github\java\javaStudy\MySQL\src" />
       <recent name="E:\github\java\javaStudy\MySQL\src\jdbc\poolTemp" />
       <recent name="E:\github\java\javaStudy\MySQL\src\jdbc\properties" />
-      <recent name="E:\github\java\javaStudy\MySQL\src\jdbc\基础入门" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IdentifierTest">
+  <component name="RunManager" selected="Application.VariableTest">
     <configuration name="Hello (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Hello" />
       <module name="mytest" />
@@ -115,15 +115,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
+    <configuration name="VariableTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.VariableTest" />
+      <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="my" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="my" />
-      <module name="mytest" />
+    <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -147,18 +153,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Hello (1)" />
-      <item itemvalue="Application.my" />
       <item itemvalue="Application.HelloWorld" />
       <item itemvalue="Application.HelloJava" />
       <item itemvalue="Application.IdentifierTest" />
+      <item itemvalue="Application.VariableTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.VariableTest" />
         <item itemvalue="Application.IdentifierTest" />
         <item itemvalue="Application.HelloJava" />
         <item itemvalue="Application.HelloWorld" />
         <item itemvalue="Application.Hello (1)" />
-        <item itemvalue="Application.my" />
       </list>
     </recent_temporary>
   </component>
@@ -194,6 +200,7 @@
       <workItem from="1606644313636" duration="8527000" />
       <workItem from="1606659310026" duration="83000" />
       <workItem from="1609483967560" duration="5937000" />
+      <workItem from="1609597532834" duration="1826000" />
     </task>
     <servers />
   </component>
@@ -201,22 +208,22 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="194" key="GridCell.Tab.0.bottom" timestamp="1609506542293">
+    <state width="1876" height="194" key="GridCell.Tab.0.bottom" timestamp="1609662836386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609506542293" />
-    <state width="1876" height="194" key="GridCell.Tab.0.center" timestamp="1609506542292">
+    <state width="1876" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609662836386" />
+    <state width="1876" height="194" key="GridCell.Tab.0.center" timestamp="1609662836385">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="194" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609506542292" />
-    <state width="1876" height="194" key="GridCell.Tab.0.left" timestamp="1609506542292">
+    <state width="1876" height="194" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609662836385" />
+    <state width="1876" height="194" key="GridCell.Tab.0.left" timestamp="1609662836384">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="194" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609506542292" />
-    <state width="1876" height="194" key="GridCell.Tab.0.right" timestamp="1609506542292">
+    <state width="1876" height="194" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609662836384" />
+    <state width="1876" height="194" key="GridCell.Tab.0.right" timestamp="1609662836386">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="194" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609506542292" />
+    <state width="1876" height="194" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609662836386" />
   </component>
   <component name="masterDetails">
     <states>
