@@ -1,59 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/jdbc/jdbc.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/c3p0-config.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/druid.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/domain/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JdbcDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/util/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/datasource/c3p0/C3P0Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/datasource/c3p0/C3P0Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/datasource/druid/DruidDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/datasource/druid/DruidDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/domain/Emp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/jdbctemplate/JdbcTemplateDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/jdbctemplate/JdbcTemplateDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/utils/JDBCUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mytest/src/my202011/my01.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/MySqlJDBC.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/c3p0-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/druid.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/domain/Emp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JdbcDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/util/JDBCUtils.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/datasource/c3p0/C3P0Demo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/datasource/c3p0/C3P0Demo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/datasource/druid/DruidDemo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/datasource/druid/DruidDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/domain/Emp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/jdbctemplate/JdbcTemplateDemo1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/jdbctemplate/JdbcTemplateDemo2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/utils/JDBCUtils.java" beforeDir="false" />
-    </list>
+    <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -260,7 +208,7 @@
       <workItem from="1609483967560" duration="5937000" />
       <workItem from="1609597532834" duration="6767000" />
       <workItem from="1609937430360" duration="2720000" />
-      <workItem from="1610266880305" duration="9389000" />
+      <workItem from="1610266880305" duration="9520000" />
     </task>
     <servers />
   </component>
@@ -280,22 +228,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="792" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610283570859" />
-    <state width="1876" height="207" key="GridCell.Tab.0.bottom" timestamp="1610283756981">
+    <state width="1876" height="231" key="GridCell.Tab.0.bottom" timestamp="1610284007618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610283756981" />
-    <state width="1876" height="207" key="GridCell.Tab.0.center" timestamp="1610283756980">
+    <state width="1876" height="231" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610284007618" />
+    <state width="1876" height="231" key="GridCell.Tab.0.center" timestamp="1610284007618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610283756980" />
-    <state width="1876" height="207" key="GridCell.Tab.0.left" timestamp="1610283756980">
+    <state width="1876" height="231" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610284007618" />
+    <state width="1876" height="231" key="GridCell.Tab.0.left" timestamp="1610284007618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610283756980" />
-    <state width="1876" height="207" key="GridCell.Tab.0.right" timestamp="1610283756980">
+    <state width="1876" height="231" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610284007618" />
+    <state width="1876" height="231" key="GridCell.Tab.0.right" timestamp="1610284007618">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610283756980" />
+    <state width="1876" height="231" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610284007618" />
     <state x="557" y="337" key="NewModule_or_Project.wizard" timestamp="1610283572546">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
