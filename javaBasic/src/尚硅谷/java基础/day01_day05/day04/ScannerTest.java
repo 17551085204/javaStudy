@@ -8,7 +8,8 @@ package 尚硅谷.java基础.day01_day05.day04;
 3.调用Scanner类的相关方法（next() / nextXxx()），来获取指定类型的变量
 
 注意：
-需要根据相应的方法，来输入指定类型的值。如果输入的数据类型与要求的类型不匹配时，会报异常：InputMisMatchException
+需要根据相应的方法，来输入指定类型的值。如果输入的数据类型与要求的类型不匹配时，
+会报异常：InputMisMatchException
 导致程序终止。
 */
 //1.导包：import java.util.Scanner;

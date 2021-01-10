@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/ForTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/ForTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/IfExer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/IfExer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/IfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/IfTest2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/ScannerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/SwitchCaseExer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/SwitchCaseTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/SwitchCaseTest1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/SwitchCaseTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/javaBasic/尚硅谷/java基础/day01_day05/day03/IfTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/javaBasic/尚硅谷/java基础/day01_day05/day03/IfTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/IfExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/IfExer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/ScannerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +65,7 @@
       <recent name="E:\github\java\javaStudy\MySQL\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IfTest">
+  <component name="RunManager" selected="Application.ScannerTest">
     <configuration name="BitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.BitTest" />
       <module name="javaBasic" />
@@ -90,13 +80,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CompareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.CompareTest" />
+    <configuration name="IfExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day04.IfExer" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day03.*" />
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -118,8 +108,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.LogicTest" />
+    <configuration name="SanYuanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.SanYuanTest" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -132,13 +122,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SanYuanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.SanYuanTest" />
+    <configuration name="ScannerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day04.ScannerTest" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day03.*" />
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -169,19 +159,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CompareTest" />
-      <item itemvalue="Application.LogicTest" />
       <item itemvalue="Application.BitTest" />
       <item itemvalue="Application.SanYuanTest" />
       <item itemvalue="Application.IfTest" />
+      <item itemvalue="Application.IfExer" />
+      <item itemvalue="Application.ScannerTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ScannerTest" />
+        <item itemvalue="Application.IfExer" />
         <item itemvalue="Application.IfTest" />
         <item itemvalue="Application.SanYuanTest" />
         <item itemvalue="Application.BitTest" />
-        <item itemvalue="Application.LogicTest" />
-        <item itemvalue="Application.CompareTest" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +209,7 @@
       <workItem from="1609483967560" duration="5937000" />
       <workItem from="1609597532834" duration="6767000" />
       <workItem from="1609937430360" duration="2720000" />
-      <workItem from="1610266880305" duration="6797000" />
+      <workItem from="1610266880305" duration="8189000" />
     </task>
     <servers />
   </component>
@@ -235,22 +225,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="792" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609938882116" />
-    <state width="1876" height="220" key="GridCell.Tab.0.bottom" timestamp="1610280582787">
+    <state width="1876" height="220" key="GridCell.Tab.0.bottom" timestamp="1610282213458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610280582787" />
-    <state width="1876" height="220" key="GridCell.Tab.0.center" timestamp="1610280582787">
+    <state width="1876" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610282213458" />
+    <state width="1876" height="220" key="GridCell.Tab.0.center" timestamp="1610282213458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610280582787" />
-    <state width="1876" height="220" key="GridCell.Tab.0.left" timestamp="1610280582786">
+    <state width="1876" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610282213458" />
+    <state width="1876" height="220" key="GridCell.Tab.0.left" timestamp="1610282213458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610280582786" />
-    <state width="1876" height="220" key="GridCell.Tab.0.right" timestamp="1610280582787">
+    <state width="1876" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610282213458" />
+    <state width="1876" height="220" key="GridCell.Tab.0.right" timestamp="1610282213458">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610280582787" />
+    <state width="1876" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610282213458" />
     <state x="477" y="168" key="SettingsEditor" timestamp="1609938220486">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
