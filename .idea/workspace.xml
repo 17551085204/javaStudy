@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/AriExer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/AriTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/BitTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/CompareTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/IfTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/LogicTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/ReviewTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/SanYuanTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/SetValueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/AriExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/AriExer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/AriTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/AriTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/BitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/BitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/CompareTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/CompareTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/LogicTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/LogicTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/SetValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03/SetValueTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mytest/src/my202011/my00.java" beforeDir="false" afterPath="$PROJECT_DIR$/mytest/src/my202011/my00.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mytest/my.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mytest/my202011/my00.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mytest/my202011/my00.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,14 +54,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day03" />
+    <property name="last_opened_file_path" value="D:/jprofiler9/bin/jprofiler.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -72,37 +72,9 @@
       <recent name="E:\github\java\javaStudy\MySQL\src\jdbc\poolTemp" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReviewTest">
-    <configuration name="BinaryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.BinaryTest" />
-      <module name="javaBasic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CharacterDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.CharacterDemo" />
-      <module name="javaBasic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day02.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReviewTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.ReviewTest" />
+  <component name="RunManager" selected="Application.BitTest">
+    <configuration name="AriExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.AriExer" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
@@ -115,13 +87,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.StringTest" />
+    <configuration name="BitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.BitTest" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day02.*" />
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,13 +101,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VariableTest3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day02.VariableTest3" />
+    <configuration name="CompareTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.CompareTest" />
       <module name="javaBasic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day02.*" />
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogicTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.LogicTest" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetValueTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.SetValueTest" />
+      <module name="javaBasic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -166,19 +166,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.VariableTest3" />
-      <item itemvalue="Application.CharacterDemo" />
-      <item itemvalue="Application.StringTest" />
-      <item itemvalue="Application.BinaryTest" />
-      <item itemvalue="Application.ReviewTest" />
+      <item itemvalue="Application.AriExer" />
+      <item itemvalue="Application.SetValueTest" />
+      <item itemvalue="Application.CompareTest" />
+      <item itemvalue="Application.LogicTest" />
+      <item itemvalue="Application.BitTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReviewTest" />
-        <item itemvalue="Application.BinaryTest" />
-        <item itemvalue="Application.StringTest" />
-        <item itemvalue="Application.VariableTest3" />
-        <item itemvalue="Application.CharacterDemo" />
+        <item itemvalue="Application.BitTest" />
+        <item itemvalue="Application.LogicTest" />
+        <item itemvalue="Application.CompareTest" />
+        <item itemvalue="Application.SetValueTest" />
+        <item itemvalue="Application.AriExer" />
       </list>
     </recent_temporary>
   </component>
@@ -215,6 +215,8 @@
       <workItem from="1606659310026" duration="83000" />
       <workItem from="1609483967560" duration="5937000" />
       <workItem from="1609597532834" duration="6767000" />
+      <workItem from="1609937430360" duration="2720000" />
+      <workItem from="1610266880305" duration="5258000" />
     </task>
     <servers />
   </component>
@@ -222,22 +224,34 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1876" height="207" key="GridCell.Tab.0.bottom" timestamp="1609676224692">
+    <state x="727" y="387" width="468" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1610267194543">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1609676224692" />
-    <state width="1876" height="207" key="GridCell.Tab.0.center" timestamp="1609676224692">
+    <state x="727" y="387" width="468" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1610267194543" />
+    <state x="792" y="287" key="FileChooserDialogImpl" timestamp="1609938882116">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1609676224692" />
-    <state width="1876" height="207" key="GridCell.Tab.0.left" timestamp="1609676224692">
+    <state x="792" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609938882116" />
+    <state width="1876" height="220" key="GridCell.Tab.0.bottom" timestamp="1610278731193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1609676224692" />
-    <state width="1876" height="207" key="GridCell.Tab.0.right" timestamp="1609676224692">
+    <state width="1876" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610278731193" />
+    <state width="1876" height="220" key="GridCell.Tab.0.center" timestamp="1610278731193">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1609676224692" />
+    <state width="1876" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610278731193" />
+    <state width="1876" height="220" key="GridCell.Tab.0.left" timestamp="1610278731193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610278731193" />
+    <state width="1876" height="220" key="GridCell.Tab.0.right" timestamp="1610278731193">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1876" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610278731193" />
+    <state x="477" y="168" key="SettingsEditor" timestamp="1609938220486">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="477" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609938220486" />
   </component>
   <component name="masterDetails">
     <states>
