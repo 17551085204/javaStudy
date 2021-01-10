@@ -2,9 +2,57 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a39e881b-3441-4cb7-9045-73029ed3a6ea" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/jdbc/jdbc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/c3p0-config.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/druid.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/domain/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JDBCDemo9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/jdbc/JdbcDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/basic/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/datasource/c3p0/C3P0Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/datasource/c3p0/C3P0Demo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/datasource/druid/DruidDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/datasource/druid/DruidDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/domain/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/jdbctemplate/JdbcTemplateDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/jdbctemplate/JdbcTemplateDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jdbc/src/jdbc/poolTemp/utils/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mytest/src/my202011/my01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/IfExer.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/IfExer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/ScannerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04/ScannerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/MySqlJDBC.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/c3p0-config.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/druid.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/domain/Emp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JDBCDemo9.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/jdbc/JdbcDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/basic/util/JDBCUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/datasource/c3p0/C3P0Demo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/datasource/c3p0/C3P0Demo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/datasource/druid/DruidDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/datasource/druid/DruidDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/domain/Emp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/jdbctemplate/JdbcTemplateDemo1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/jdbctemplate/JdbcTemplateDemo2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MySqlJDBC/src/jdbc/poolTemp/utils/JDBCUtils.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +95,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/javaBasic/src/尚硅谷/java基础/day01_day05/day04" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jdbc/src" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -58,28 +106,14 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\github\java\javaStudy\jdbc\src" />
       <recent name="E:\github\java\javaStudy\javaBasic\src\尚硅谷\java基础\day01_day05\day04" />
       <recent name="E:\github\java\javaStudy\javaBasic\src\尚硅谷\java基础\day01_day05\day03" />
       <recent name="E:\github\java\javaStudy\javaBasic\src\尚硅谷\java基础\day01_day05\day02" />
       <recent name="E:\github\java\javaStudy\redis\src" />
-      <recent name="E:\github\java\javaStudy\MySQL\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ScannerTest">
-    <configuration name="BitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.BitTest" />
-      <module name="javaBasic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.my01">
     <configuration name="IfExer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day04.IfExer" />
       <module name="javaBasic" />
@@ -94,27 +128,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.IfTest" />
-      <module name="javaBasic" />
+    <configuration name="JdbcDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="jdbc.basic.jdbc.JdbcDemo1" />
+      <module name="jdbc" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day03.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SanYuanTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="尚硅谷.java基础.day01_day05.day03.SanYuanTest" />
-      <module name="javaBasic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="尚硅谷.java基础.day01_day05.day03.*" />
+          <option name="PATTERN" value="jdbc.basic.jdbc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,8 +162,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="my01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="my202011.my01" />
+      <module name="mytest" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my202011.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="my01.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mytest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="my202011.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="my202011" />
+      <option name="MAIN_CLASS_NAME" value="my202011.my01" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -159,19 +210,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BitTest" />
-      <item itemvalue="Application.SanYuanTest" />
-      <item itemvalue="Application.IfTest" />
       <item itemvalue="Application.IfExer" />
       <item itemvalue="Application.ScannerTest" />
+      <item itemvalue="Application.my01" />
+      <item itemvalue="Application.JdbcDemo1" />
+      <item itemvalue="JUnit.my01.test1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.my01" />
+        <item itemvalue="JUnit.my01.test1" />
+        <item itemvalue="Application.JdbcDemo1" />
         <item itemvalue="Application.ScannerTest" />
         <item itemvalue="Application.IfExer" />
-        <item itemvalue="Application.IfTest" />
-        <item itemvalue="Application.SanYuanTest" />
-        <item itemvalue="Application.BitTest" />
       </list>
     </recent_temporary>
   </component>
@@ -209,7 +260,7 @@
       <workItem from="1609483967560" duration="5937000" />
       <workItem from="1609597532834" duration="6767000" />
       <workItem from="1609937430360" duration="2720000" />
-      <workItem from="1610266880305" duration="8189000" />
+      <workItem from="1610266880305" duration="9389000" />
     </task>
     <servers />
   </component>
@@ -221,104 +272,41 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="727" y="387" width="468" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1920.1040@0.0.1920.1040" timestamp="1610267194543" />
-    <state x="792" y="287" key="FileChooserDialogImpl" timestamp="1609938882116">
+    <state x="691" y="358" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog" timestamp="1610283740887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="792" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1609938882116" />
-    <state width="1876" height="220" key="GridCell.Tab.0.bottom" timestamp="1610282213458">
+    <state x="691" y="358" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610283740887" />
+    <state x="792" y="287" key="FileChooserDialogImpl" timestamp="1610283570859">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610282213458" />
-    <state width="1876" height="220" key="GridCell.Tab.0.center" timestamp="1610282213458">
+    <state x="792" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1610283570859" />
+    <state width="1876" height="207" key="GridCell.Tab.0.bottom" timestamp="1610283756981">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610282213458" />
-    <state width="1876" height="220" key="GridCell.Tab.0.left" timestamp="1610282213458">
+    <state width="1876" height="207" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1610283756981" />
+    <state width="1876" height="207" key="GridCell.Tab.0.center" timestamp="1610283756980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610282213458" />
-    <state width="1876" height="220" key="GridCell.Tab.0.right" timestamp="1610282213458">
+    <state width="1876" height="207" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1610283756980" />
+    <state width="1876" height="207" key="GridCell.Tab.0.left" timestamp="1610283756980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="220" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610282213458" />
-    <state x="477" y="168" key="SettingsEditor" timestamp="1609938220486">
+    <state width="1876" height="207" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1610283756980" />
+    <state width="1876" height="207" key="GridCell.Tab.0.right" timestamp="1610283756980">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="477" y="168" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1609938220486" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>mavenTest</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>lib</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+    <state width="1876" height="207" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1610283756980" />
+    <state x="557" y="337" key="NewModule_or_Project.wizard" timestamp="1610283572546">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="557" y="337" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1610283572546" />
+    <state x="395" y="184" key="SettingsEditor" timestamp="1610283876147">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="395" y="184" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610283876147" />
+    <state x="334" y="130" key="new project wizard" timestamp="1610283612092">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="334" y="130" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1610283612092" />
   </component>
 </project>
