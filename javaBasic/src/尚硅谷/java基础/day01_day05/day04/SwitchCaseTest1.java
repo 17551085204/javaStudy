@@ -6,7 +6,6 @@ package 尚硅谷.java基础.day01_day05.day04;
 */
 class SwitchCaseTest1 {
 	public static void main(String[] args) {
-
 		/*
 		int score = 78;
 		switch(score){

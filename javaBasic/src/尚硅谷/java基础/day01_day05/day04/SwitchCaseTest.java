@@ -110,5 +110,6 @@ class SwitchCaseTest {
 			System.out.println("未成年");
 		}
 		*/
+
 	}
 }

@@ -20,7 +20,7 @@ import java.util.Scanner;
 class IfTest {
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
-
+		// 调用方法，得到输入的成绩的数值
 		System.out.println("请输入岳小鹏期末成绩：(0-100)");
 		int score = scan.nextInt();
 

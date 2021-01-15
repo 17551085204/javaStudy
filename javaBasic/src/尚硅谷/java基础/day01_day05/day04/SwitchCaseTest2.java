@@ -59,6 +59,7 @@ class SwitchCaseTest2 {
 		}
 		*/
 
+		// 巧妙利用case击穿，消除冗余
 		switch(month){
 			case 12:
 				sumDays += 30;
