@@ -9,6 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/mytest/mytest.iml" filepath="$PROJECT_DIR$/mytest/mytest.iml" />
       <module fileurl="file://$PROJECT_DIR$/redis/redis.iml" filepath="$PROJECT_DIR$/redis/redis.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring5/spring5.iml" filepath="$PROJECT_DIR$/spring5/spring5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5Demo/spring5Demo.iml" filepath="$PROJECT_DIR$/spring5Demo/spring5Demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5Demo3/spring5Demo3.iml" filepath="$PROJECT_DIR$/spring5Demo3/spring5Demo3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5Demo4/spring5Demo4.iml" filepath="$PROJECT_DIR$/spring5Demo4/spring5Demo4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring5Demo_TX/spring5Demo_TX.iml" filepath="$PROJECT_DIR$/spring5Demo_TX/spring5Demo_TX.iml" />
     </modules>
   </component>
 </project>

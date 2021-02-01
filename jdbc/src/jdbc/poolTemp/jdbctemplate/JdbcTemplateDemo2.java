@@ -11,6 +11,7 @@ import org.springframework.jdbc.core.RowMapper;
 import java.sql.Date;
 import java.sql.ResultSet;
 import java.sql.SQLException;
+import java.util.ArrayList;
 import java.util.List;
 import java.util.Map;
 
@@ -25,11 +26,26 @@ public class JdbcTemplateDemo2 {
      */
     @Test
     public void test1(){
-        //2. 定义sql
-        String sql = "update emp set salary = 10000 where id = 1001";
-        //3. 执行sql
-        int count = template.update(sql);
-        System.out.println(count);
+        // 单个修改
+//        //2. 定义sql
+//        String sql = "update emp set salary = 30000 where id = 1001";
+//        //3. 执行sql
+//        int count = template.update(sql);
+//        System.out.println(count);
+
+        // 批量修改
+        String sql = "update emp set salary = ? where id = ?";
+        List<Object[]> batchArgs = new ArrayList<>();
+        Object[] o1 = {4399,1015};
+        Object[] o2 = {1234,1016};
+        Object[] o3 = {5678,1017};
+        batchArgs.add(o1);
+        batchArgs.add(o2);
+        batchArgs.add(o3);
+        //调用方法实现批量修改
+        template.batchUpdate(sql,batchArgs);
+
+
     }
 
     /**
@@ -38,8 +54,25 @@ public class JdbcTemplateDemo2 {
     @Test
     public void test2(){
         String sql = "insert into emp(id,ename,dept_id) values(?,?,?)";
-        int count = template.update(sql, 1015, "郭靖", 10);
-        System.out.println(count);
+        // 批量添加,自己实现的方式
+//        for (int i = 1015; i < 1017; i++) {
+//             template.update(sql, i, "郭靖", 10);
+//        }
+
+        // 调用batchUpdate方法实现批量加入
+        List<Object[]> batchArgs = new ArrayList<>();
+        Object[] o1 = {1015,"java",10};
+        Object[] o2 = {1016,"c++",20};
+        Object[] o3 = {1017,"MySQL",30};
+        batchArgs.add(o1);
+        batchArgs.add(o2);
+        batchArgs.add(o3);
+        template.batchUpdate(sql,batchArgs);
+
+
+        // 添加一条记录
+//        int count = template.update(sql, 1015, "郭靖", 10);
+//        System.out.println(count);
 
     }
 
@@ -49,8 +82,30 @@ public class JdbcTemplateDemo2 {
     @Test
     public void test3(){
         String sql = "delete from emp where id = ?";
-        int count = template.update(sql, 1015);
-        System.out.println(count);
+
+        // 批量删除,自己的办法
+//        for (int i = 1015; i <=1017 ; i++) {
+//            template.update(sql, i);
+//        }
+
+        // 调用batchUpdate方法实现批量删除
+        List<Object[]> batchArgs = new ArrayList<>();
+        Object[] o1 = {1015};
+        Object[] o2 = {1016};
+        Object[] o3 = {1017};
+        batchArgs.add(o1);
+        batchArgs.add(o2);
+        batchArgs.add(o3);
+        template.batchUpdate(sql,batchArgs);
+
+
+
+        // 删除一条记录
+//        int count = template.update(sql, 1015);
+//        System.out.println(count);
+
+
+
     }
 
     /**
