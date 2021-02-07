@@ -26,6 +26,11 @@
         <option name="userSettingsFile" value="C:\my_java\apache-maven-3.5.2\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="MavenRunner">
     <option name="vmOptions" value="-DarchetypeCatalog=internal" />
@@ -45,14 +50,14 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../demoreactor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -63,26 +68,17 @@
       <recent name="E:\github\java\javaStudy\spring5Demo3" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.TestAccount.testAccount1">
-    <configuration default="true" type="Application" factoryName="Application">
+  <component name="RunManager" selected="JUnit.myTest.printTest">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Hello" />
+      <module name="mavenTest" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JTest4.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring5Demo_TX" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.spring5.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.spring5.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring5.test.JTest4" />
-      <option name="METHOD_NAME" value="test1" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,25 +134,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestAccount.testGenericApplicationContext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="spring5Demo_TX" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.spring5.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.atguigu.spring5.test" />
-      <option name="MAIN_CLASS_NAME" value="com.atguigu.spring5.test.TestAccount" />
-      <option name="METHOD_NAME" value="testGenericApplicationContext" />
-      <option name="TEST_OBJECT" value="method" />
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="myTest.printTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mavenTest" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="myTest" />
+      <option name="METHOD_NAME" value="printTest" />
+      <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -172,19 +162,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Hello" />
       <item itemvalue="JUnit.TestAccount.testAccount2" />
-      <item itemvalue="JUnit.JTest4.test1" />
       <item itemvalue="JUnit.TestAccount.testAccount" />
       <item itemvalue="JUnit.TestAccount.testAccount1" />
-      <item itemvalue="JUnit.TestAccount.testGenericApplicationContext" />
+      <item itemvalue="JUnit.myTest.printTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.myTest.printTest" />
+        <item itemvalue="Application.Hello" />
         <item itemvalue="JUnit.TestAccount.testAccount1" />
         <item itemvalue="JUnit.TestAccount.testAccount" />
         <item itemvalue="JUnit.TestAccount.testAccount2" />
-        <item itemvalue="JUnit.TestAccount.testGenericApplicationContext" />
-        <item itemvalue="JUnit.JTest4.test1" />
       </list>
     </recent_temporary>
   </component>
@@ -235,6 +225,9 @@
       <workItem from="1612064396883" duration="15638000" />
       <workItem from="1612182472746" duration="373000" />
       <workItem from="1612182870454" duration="2018000" />
+      <workItem from="1612189351135" duration="157000" />
+      <workItem from="1612189826916" duration="1810000" />
+      <workItem from="1612192733122" duration="1035000" />
     </task>
     <servers />
   </component>
@@ -258,26 +251,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="691" y="358" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611827374523" />
-    <state x="792" y="287" key="FileChooserDialogImpl" timestamp="1612181155987">
+    <state x="675" y="295" key="FileChooserDialogImpl" timestamp="1612189937988">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="792" y="287" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612181155987" />
-    <state width="1876" height="308" key="GridCell.Tab.0.bottom" timestamp="1612185135444">
+    <state x="675" y="295" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612189937988" />
+    <state width="1876" height="308" key="GridCell.Tab.0.bottom" timestamp="1612191985564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612185135444" />
-    <state width="1876" height="308" key="GridCell.Tab.0.center" timestamp="1612185135444">
+    <state width="1876" height="308" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1612191985564" />
+    <state width="1876" height="308" key="GridCell.Tab.0.center" timestamp="1612191985564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="308" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612185135444" />
-    <state width="1876" height="308" key="GridCell.Tab.0.left" timestamp="1612185135444">
+    <state width="1876" height="308" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1612191985564" />
+    <state width="1876" height="308" key="GridCell.Tab.0.left" timestamp="1612191985564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="308" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612185135444" />
-    <state width="1876" height="308" key="GridCell.Tab.0.right" timestamp="1612185135444">
+    <state width="1876" height="308" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1612191985564" />
+    <state width="1876" height="308" key="GridCell.Tab.0.right" timestamp="1612191985564">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1876" height="308" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612185135444" />
+    <state width="1876" height="308" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1612191985564" />
     <state width="1876" height="2" key="GridCell.Tab.1.bottom" timestamp="1611405993471">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -298,14 +291,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="557" y="337" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1610283572546" />
-    <state x="405" y="93" key="SettingsEditor" timestamp="1612182557892">
+    <state x="405" y="93" key="SettingsEditor" timestamp="1612192748174">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="405" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612182557892" />
-    <state x="387" y="172" key="new project wizard" timestamp="1612184184397">
+    <state x="405" y="93" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1612192748174" />
+    <state x="283" y="82" key="new project wizard" timestamp="1612189507673">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="387" y="172" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612184184397" />
+    <state x="283" y="82" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1612189507673" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1612078746250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
